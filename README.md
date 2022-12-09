@@ -1,5 +1,7 @@
 # Learning to Embed Multi-Modal Contexts forSituated Conversational Agents
 
+## This branch is same as https://github.com/KAIST-AILab/DSTC10-SIMMC
+
 ## Overview
 
 Anonymized github repository for NAACL 2022 submission
